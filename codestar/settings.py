@@ -27,7 +27,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'klokahokaplucklick_pop_23kf65.'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['8000-kimskogfelt-cidjangoblo-dtgngse91oc.ws-eu108.gitpod.io', '.herokuapp.com']
 
